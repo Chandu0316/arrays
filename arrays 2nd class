@@ -1,0 +1,31 @@
+package insider;
+
+public class insider {
+
+	public static void main(String[] args) {
+	int n[]=new int[10];
+	n[0]=10;
+			n[1]=15;
+			n[2]=25;
+			n[3]=35;
+			n[4]=45;
+			n[5]=55;
+			n[6]=65;
+			n[7]=75;
+			n[8]=85;
+			n[9]=95;
+			for(int i=0;i<10;i++) {
+				System.out.println(n[i]+"");
+			}
+ }
+ }
+ 
+	 
+	 
+	 
+ 
+ 
+ 
+	
+
+
